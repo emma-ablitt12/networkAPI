@@ -1,0 +1,17 @@
+
+{
+	"network_settings":
+		{
+			"host": "127.0.0.1",
+			"port": ""
+		},
+
+	"dispenser_settings":
+		{
+			/** in terms of ml **/
+			"maximum_capacity": 1000,
+			"minimum_capacity": 50,
+			"single dispense amount": 10,
+			"minimum_notify_amount": 200
+		}
+}
