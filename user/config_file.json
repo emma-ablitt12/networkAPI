@@ -3,7 +3,7 @@
 	"network_settings":
 		{
 			"host": "127.0.0.1",
-			"port": ""
+			"port": "8082"
 		},
 
 	"dispenser_settings":

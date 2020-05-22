@@ -28,7 +28,6 @@ class User:
 			self.min_notify_amount = config["dispenser_settings"]["min_notify_amount"]
 
 		settings = []
-
 		settings.append("Network settings")
 		settings.append("Host: {}".format(self.host))
 		settings.append("Port: {}".format(self.port))
